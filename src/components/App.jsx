@@ -23,36 +23,3 @@ export const App = () => {
   )
 }
 
-
-// ;
-
-
-  // const addTodo = () => {
-  //   if(text.trim().length) {
-  //     setTodos([
-  //       ...todos,
-  //     {
-  //       id: new Date().toISOString(),
-  //       text,
-  //       completed: false,
-  //     }
-  //     ])
-  //     setText(" ");
-  //   }
-    
-  // }
-
-// const removeTodo = (todoId) => {
-//   // setTodos(todos.filter(todo => todo.id !== todoId))
-// }
-
-// const toggleComlete = (todoId) => {
-//   setTodos (todos.msp(todo => {
-//     if(todo.id !== todoId) return todo;
-
-//     return {
-//       ...todo,
-//       completed: !todo.comleted,
-//     }
-//   }))
-// }
